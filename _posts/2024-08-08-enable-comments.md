@@ -12,7 +12,7 @@ Here are some details.
 
 # Install Giscus
 
-Visit https://github.com/apps/giscus, follow the guide, and choose the repos you want to install giscus with.
+Visit <https://github.com/apps/giscus>, follow the guide, and choose the repos you want to install giscus with.
 
 # Enable Discussions
 
@@ -22,7 +22,7 @@ Then, you will see a new ``Discussions`` tab in your repo. Open this tab, create
 
 # Configure Giscus
 
-Visit https://giscus.app/, and follow the guide.
+Visit <https://giscus.app/>, and follow the guide.
 
 In the seciton **Configuration**, choose your preference. Then in the subsection **Enable giscus**, you will see a auto-generated ``<script>`` like this:
 
@@ -79,9 +79,8 @@ comments:
 
 # References
 
-https://chirpy.cotes.page/posts/write-a-new-post/#comments
+<https://chirpy.cotes.page/posts/write-a-new-post/#comments>
 
-https://blog.martinp7r.com/posts/adding-giscus-comments-to-my-blog/
+<https://blog.martinp7r.com/posts/adding-giscus-comments-to-my-blog/>
 
-https://thiagoalves.ai/adding-comments-to-jekyll-using-giscus/
-
+<https://thiagoalves.ai/adding-comments-to-jekyll-using-giscus/>
