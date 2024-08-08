@@ -11,17 +11,17 @@ Follow [Chirpy's guide](https://chirpy.cotes.page/posts/write-a-new-post/#commen
 
 Here are some details.
 
-# Install Giscus
+## Install Giscus
 
 Visit <https://github.com/apps/giscus>, follow the guide, and choose the repos you want to install giscus with.
 
-# Enable Discussions
+## Enable Discussions
 
 Go to your repo -> Settings -> General -> Features, and check ``Discussions`` on, and follow the guide (keep everything as default is ok) to finish.
 
 Then, you will see a new ``Discussions`` tab in your repo. Open this tab, create a new category named ``Comments``. Or you may also use any of the default created categories.
 
-# Configure Giscus
+## Configure Giscus
 
 Visit <https://giscus.app/>, and follow the guide.
 
@@ -76,7 +76,7 @@ comments:
  Then refresh your blog to see the result.
 
 
-# References
+## References
 
 <https://chirpy.cotes.page/posts/write-a-new-post/#comments>
 
