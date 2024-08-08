@@ -45,8 +45,6 @@ In the seciton **Configuration**, choose your preference. Then in the subsection
 </script>
 ```
 
-# Configure ``_config.yml``
-
 Make changes to ``_config.yml`` file according to ``<script>``.
 
  ``` yml
