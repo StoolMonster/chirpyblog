@@ -117,10 +117,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: StoolMonster/chirpyblog <gh-username>/<repo>
-    repo_id:
+    repo: StoolMonster/chirpyblog
+    repo_id: R_kgDOMg5ddg
     category: Comments
-    category_id: 
+    category_id: DIC_kwDOMg5dds4Che4C
     mapping: title # optional, default to 'pathname'
     strict: 1 # optional, default to '0'
     input_position: bottom # optional, default to 'bottom'
