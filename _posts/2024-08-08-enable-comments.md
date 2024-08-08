@@ -2,7 +2,7 @@
 title: Enable comments in the blog
 date: 2024-08-08 21:20:30+0800
 categories: [Blog]
-tags: [blog, comments]     # TAG names should always be lowercase
+tags: [blog, comments, giscus] # TAG names should always be lowercase
 author: <admin> 
 toc: true
 ---
