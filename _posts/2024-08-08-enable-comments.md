@@ -75,4 +75,13 @@ comments:
  Commit changes to your repo to trigger the github action to redeploy the blog.
  
  Then refresh your blog to see the result.
- 
+
+
+# References
+
+https://chirpy.cotes.page/posts/write-a-new-post/#comments
+
+https://blog.martinp7r.com/posts/adding-giscus-comments-to-my-blog/
+
+https://thiagoalves.ai/adding-comments-to-jekyll-using-giscus/
+
