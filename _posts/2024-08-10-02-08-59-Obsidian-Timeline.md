@@ -12,6 +12,6 @@ author: <admin>
 1. [Timelines](https://github.com/Darakah/obsidian-timelines)
 2. [Timelines (Revamped)](https://github.com/seanlowe/obsidian-timelines)
 
-最后，终于找到一个小众的插件[Chronology](https://github.com/Canna71/obsidian-chronology)，可以按照笔记的创建顺序和最后更新顺序展示所有笔记，并且还有意想不到的额外功能。
+最后，终于找到一个小众的插件[Chronology](https://github.com/Canna71/obsidian-chronology)，可以分别按照笔记的创建时间和最后更新时间的顺序，展示所有笔记，并且还有意想不到的额外功能。
 
 找到这个插件的时候，安装人数是34533。
