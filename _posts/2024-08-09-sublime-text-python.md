@@ -10,7 +10,7 @@ Setup python enviroment in Sublime Text.
 
 Select ``Tools -> Build System -> New Build System`` in sublime text. This will open a new build system config file. In that file delete everything and paste this:
 
-```
+```json
 {
     "cmd": ["PATH TO YOUR DESIRED PYTHON INTERPRETER","-u", "$file"],
     "selector": "source.python",
@@ -20,7 +20,7 @@ Select ``Tools -> Build System -> New Build System`` in sublime text. This will 
 
 Example path:
 
-```
+```json
 "cmd": ["D:/MyPrograms/anaconda3/python.exe","-u", "$file"]
 ```
 
