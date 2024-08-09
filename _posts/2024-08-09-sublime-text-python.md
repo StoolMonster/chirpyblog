@@ -2,7 +2,7 @@
 title: Setup python for sublime text
 date: 2024-08-09 10:56:30+0800
 categories: ["Sublime Text"]
-tags: ["sublime text", python] # TAG names should always be lowercase
+tags: ["sublime text", "python"] # TAG names should always be lowercase
 author: <admin> 
 ---
 
