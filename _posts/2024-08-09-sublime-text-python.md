@@ -6,7 +6,7 @@ tags: ["sublime text", python] # TAG names should always be lowercase
 author: <admin> 
 ---
 
-Setup python enviroment in Sublime Text.
+Setup python environment in Sublime Text.
 
 Select ``Tools -> Build System -> New Build System`` in sublime text. This will open a new build system config file. In that file delete everything and paste this:
 
