@@ -268,7 +268,7 @@ Yes, because I knew little about WMI, ACPI, etc,. So I tried to find a `mapping 
 
 Until I found the [WMI ACPI Sample](https://learn.microsoft.com/en-us/samples/microsoft/windows-driver-samples/wmi-acpi-sample/), which can be found in the microsoft offical site.
 
-And this is [repo](github.com/microsoft/windows-driver-samples/tree/main/wmi/wmiacpi) of the offical sample.
+And this is [repo](https://github.com/microsoft/windows-driver-samples/tree/main/wmi/wmiacpi) of the offical sample.
 
 In this repo, there is a `wmi-acpi.htm` file, which is `The Windows Instrumentation: WMI and ACPI white paper.`.
 
