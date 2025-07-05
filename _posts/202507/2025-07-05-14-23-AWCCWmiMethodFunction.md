@@ -332,6 +332,7 @@ Let's continues on the 1st part.
 According to the white paper, the Object ID (`xx`) tells the firmware to invoke `WMxx` method. Thus, the 1st part's Object ID is `AX`, which means, `Method (WMAX, 3, Serialized)` will be invoked next.
 
 According to the white paper, 
+
 > By convention, the name of the control method is WMxx, where xx is the 2-character ID that maps to the GUID. This method call has three parameters; the first is a ULONG that has the instance index being executed; the second contains the method ID for the method being executed; and the third is a buffer that contains the input for the method call.
 
 At this point, I have a clearer understanding of the relationship between WMI and ACPI, which also explains why I tried to reverse engineer the BIOS to find some `mapping table` between the `method name` with `Arg1`, but found no results.
